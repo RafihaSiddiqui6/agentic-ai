@@ -22,7 +22,7 @@ cd agentic-ai
 
 
 # Install Dependencies:
-``` pip install -r requirements.txt
+``` pip install -r requirements.txt```
 
 # Ensure you have the following in requirements.txt:
 - streamlit==1.38.0
