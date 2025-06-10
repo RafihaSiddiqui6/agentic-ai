@@ -22,12 +22,12 @@ cd agentic-ai
 
 
 # Install Dependencies:
-pip install -r requirements.txt
+''' pip install -r requirements.txt
 
 # Ensure you have the following in requirements.txt:
-streamlit==1.38.0
-requests==2.32.3
-python-dotenv==1.0.1
+- streamlit==1.38.0
+- requests==2.32.3
+- python-dotenv==1.0.1
 
 
 - Set Up Environment Variables:Create a .env file in the project root and add your OpenRouter API key:
