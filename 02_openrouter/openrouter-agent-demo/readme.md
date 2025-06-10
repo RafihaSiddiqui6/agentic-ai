@@ -34,35 +34,23 @@ python-dotenv==1.0.1
 - OPENROUTER_API_KEY=your-openrouter-api-key
 
 
-Run the Application:
+## Run the Application:
 streamlit run app.py
 
 
 
-Usage
+# Usage
 
-Open the application in your browser (default: http://localhost:8501).
-Type your message in the chat input field to interact with the AI assistant.
-View the conversation history displayed in a clean, styled format.
-Click the "Clear Chat" button to reset the conversation.
+- Open the application in your browser (default: http://localhost:8501).
+- Type your message in the chat input field to interact with the AI assistant.
+- View the conversation history displayed in a clean, styled format.
+- Click the "Clear Chat" button to reset the conversation.
 
-Project Structure
+# Project Structure
 
-app.py: Main Streamlit application file containing the AI assistant logic.
-.env: Stores the OpenRouter API key (not tracked in Git).
-requirements.txt: Lists Python dependencies for the project.
+- app.py: Main Streamlit application file containing the AI assistant logic.
+- .env: Stores the OpenRouter API key (not tracked in Git).
+- requirements.txt: Lists Python dependencies for the project.
 
-Contributing
-Contributions are welcome! Please:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-For questions or feedback, reach out to Rafiha Siddiqui via GitHub.
-
+# Contributing
+- Contributions are welcome! Please:
